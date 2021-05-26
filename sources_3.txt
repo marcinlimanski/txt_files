@@ -1,0 +1,5 @@
+https://github.com/komljen/dockerfile-examples.git 0834b09e172f9c899eb98ffe1463b67136cf05ea
+https://github.com/app-sre/qontract-reconcile.git 30af65af14a2dce962df923446afff24dd8f123e
+https://github.com/app-sre/container-images.git c260deaf135fc0efaab365ea234a5b86b3ead404
+https://github.com/digitalocean/sample-dockerfile.git a93e17f28169c24bae8f497989121198e692b08c
+
